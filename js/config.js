@@ -1,16 +1,16 @@
 boomerang.factory('Config', function () {
     return {
         //modify these
-        'name'          : 'GDG Space Coast',
-        'id'            : '103959793061819610212',
-        'google_api'    : 'AIzaSyA9ALjr2iWvhf3Rsz9-bH0cEcDcrdkpuAg',
-        'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
+        'name'          : 'GDG Kota Kinabalu',
+        'id'            : '117368911868983524073',
+        'google_api'    : 'AIzaSyDPjRfTjr-X-FB0jRSf06_7rHAvu9oQ3To',
+        'pwa_id'        : '5879735148545390897', //picasa web album id, must belong to google+ id above
         'cover' : {
-            title : 'GWT.create',
-            subtitle : 'The largest event about GWT in 2013 with 2 days and more than 60 presentations.',
+            title : 'GDG Kota Kinabalu',
+            subtitle : 'Google Developer Group in a city with the best sunsets in the world. Hashtag #gdgkotakinabalu',
             button : {
-                text : 'Register',
-                url : 'http://gwtcreate.com/'
+                text : 'Follow us on Google+',
+                url : 'http://google.com/+GDGKotaKinabalu'
             }
         }
     };
